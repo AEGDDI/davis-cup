@@ -3,7 +3,7 @@ old format
 https://www.daviscup.com/en/draws-results/historic-format/world-group.aspx
 
 new format 
-https://www.daviscup.com/en/draws-results/group-iv/europe/2019.aspx
+https://www.daviscup.com/en/draws-results/finals/2019.aspx
 
 github repo matches 
 https://github.com/JeffSackmann/tennis_atp/tree/master
